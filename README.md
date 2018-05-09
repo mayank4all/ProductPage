@@ -1,2 +1,1 @@
-# ProductPage
-This is the Product Page of the ongoing Web Development ...
+# productPage
